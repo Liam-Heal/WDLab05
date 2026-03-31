@@ -50,9 +50,9 @@ nav ul {
     width: 100%;
 }
 
-/*nav li {
+nav li {
     flex:auto;
-} */
+}
 
 nav a {
     display: block;
